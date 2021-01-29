@@ -61,7 +61,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"The Game"
+                 "value":"TheGame"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"The Lounge"
+                 "value":"TheLounge"
                 }],
          "type":"tilelayer",
          "visible":true,
