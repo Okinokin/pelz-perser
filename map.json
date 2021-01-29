@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"The Kitchen"
+                 "value":"https:\/\/meet.jit.si\/TheKitchen"
                 }],
          "type":"tilelayer",
          "visible":true,
