@@ -55,7 +55,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"file",
-                 "value":"supalonely.mp3"
+                 "value":"audio.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
