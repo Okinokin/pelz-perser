@@ -89,9 +89,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Bench3",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Bench3"
                 }],
          "type":"tilelayer",
          "visible":true,
