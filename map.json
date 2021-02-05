@@ -179,9 +179,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
-                 "type":"file",
-                 "value":"audio.mp3"
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.twitch.tv\/djfranzen"
                 }],
          "type":"tilelayer",
          "visible":true,
